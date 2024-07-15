@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'D in tha building',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Darja',
+  domain: 'www.migranthope.com',
+  author: 'Darja Milidragovic',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'The Re-Emergence of My Unresolved Grief',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
